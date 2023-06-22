@@ -44,6 +44,4 @@ console.log(extractNumber('ECMAScript 2022'));
 // eslint-disable-next-line no-console
 console.log(extractNumber('1 кефир, 0.5 батона'));
 // eslint-disable-next-line no-console
-console.log(extractNumber('агент 007'));
-// eslint-disable-next-line no-console
 console.log(extractNumber('а я томат'));
